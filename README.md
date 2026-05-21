@@ -32,6 +32,7 @@ Allure CLI
 Playwright browsers installed
 
 Reports :
+
 HTML:
 <img width="2373" height="1544" alt="{286F6ED0-EA3E-49FB-A9A9-787ED3DFE2C4}" src="https://github.com/user-attachments/assets/4c5e9d78-ae86-457f-84e5-00e257becda0" />
 
