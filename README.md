@@ -5,18 +5,31 @@ Automated test suite for the Playwright (software) Wikipedia article, built with
 Project Structure:
 
 TestProject2/
+
 ├── Configs/
+
 │   └── Config.cs           # variables (URLs, selectors, sections)
+
 ├── Pages/
+
 │   └── WikiPage.cs         # Page object for the wikipedia web page
+
 ├── Tests/
+
 │   ├── WikiTest.cs         # test cases
+
 │   └── Wikitestbase.cs     # base class with setup/teardown
+
 ├── Utils/
+
 │   ├── ApiExtractor.cs     # fetches section text via Wikipedia API
+
 │   ├── TXTNormalizer.cs    # normalizes and extracts unique words
+
 │   └── UITextExtract.cs    # extracts section text from the UI via Playwright
+
 ├── allureConfig.json       # Allure results output configuration
+
 └── TestProject2.csproj
 
 Test Cases:
