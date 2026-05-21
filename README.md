@@ -36,7 +36,8 @@ Test Cases:
 
 1.WordCount_Match: Compares unique word count in the "Debugging Features" section between UI scrape and Wikipedia API.
 2.DevTools_AreLinks: Verifies every item in the Microsoft dev tools table cell has a hyperlink if not fail the test.
-3.DarkMode_Applied: Clicks the night mode toggle and confirms the dark theme class is applied to the <html> element
+
+3.DarkMode_Applied: Clicks the night mode toggle and confirms the dark theme class is applied to the <html> element.
 
 Prerequisites
 
