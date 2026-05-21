@@ -1,0 +1,2 @@
+UI unique word count:  35
+API unique word count: 35
