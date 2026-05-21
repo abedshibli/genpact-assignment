@@ -2,6 +2,8 @@ Wikipedia Playwright Test Suite:
 
 Automated test suite for the Playwright (software) Wikipedia article, built with C#, NUnit, Microsoft Playwright, and Allure reporting.
 
+note:some prints were added to visualise tests results
+
 Project Structure:
 
 TestProject2/
